@@ -3,7 +3,7 @@
 Documents
 ---------
 
-- [Design Document](design.pdf)
+- [Design Document](documents/Design.pdf)
 - [Planning Exercise](https://docs.google.com/document/d/1DpRb6M76pyS7zpsEHYStU5DAbkT19tBpWf_MZvIpR_M/edit#)
 - [Knowns/Unknowns](https://docs.google.com/document/d/1eTJVMXFmseAlTwWsGucel5kOAXX9kiJIeRw-pdnZpDg/edit)
 - [Nouns and Verbs](https://docs.google.com/document/d/1GhiHcd87psrmDItNEhCSbC_SL8sLyPDr_MH5tRuc0h8/edit)
