@@ -5,9 +5,9 @@ Documents
 
 - [Design Document](documents/Design.pdf)
 - [Planning Exercise](https://docs.google.com/document/d/1DpRb6M76pyS7zpsEHYStU5DAbkT19tBpWf_MZvIpR_M/edit#)
-- [Knowns/Unknowns](https://docs.google.com/document/d/1eTJVMXFmseAlTwWsGucel5kOAXX9kiJIeRw-pdnZpDg/edit)
-- [Nouns and Verbs](https://docs.google.com/document/d/1GhiHcd87psrmDItNEhCSbC_SL8sLyPDr_MH5tRuc0h8/edit)
-- [Design Pattern Usage](https://docs.google.com/document/d/1IpmbxDUdjTXClehBjOHtHz2DYpPqTde3pqiL0cceEYw/edit)
+- [Knowns/Unknowns](https://docs.google.com/document/d/1Rk75-DWsOrO728AbxkRTZhcegPFC3AIJ_9oe5GYHObY/edit?usp=sharing)
+- [Nouns and Verbs](https://docs.google.com/document/d/1P1IY2cFv1OD0AJJtFAYkLgoccR9dJ2XzgiNHgON2GZg/edit?usp=sharing)
+- [Design Pattern Usage](https://docs.google.com/document/d/1BLwGsIDDxCkeuyiO1U26asgWO9F5XdQRNyJS-amVOjo/edit?usp=sharing)
 
 Running
 --------
